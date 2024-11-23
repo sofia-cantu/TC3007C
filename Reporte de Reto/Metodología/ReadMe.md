@@ -9,7 +9,7 @@
 ### **Información General**
 - Momento de Retroalimentación: Reto Metodología
 
-### **Avance del Reporte 1: Entendimiento del Probema**
+### **Avance del Reporte 2: Metodología**
 
 Avanzamos en un documento que contiene la estructura completa para un reporte técnico. Nos enfocamos en terminar el reporte completo, aunque aún el código final no estuviera listo. Esto fue con la intención de que nos pudieran dar una retroalimentación de cómo esperan el reporte final y no equivocarnos al momento de hacer la entrega final.
 
