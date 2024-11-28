@@ -27,3 +27,6 @@ Para este entregable, buscamos resumir las partes más relevantes del proyecto, 
 7. Métricas del modelo
 8. Resultados
 9. Prueba
+
+### **Reporte Final: Solución del Reto**
+En este apartado se encuentra la entrega final de nuestro reporte, que explica a detalle nuestra solución a el reto presentado. Adicionalmente, se incluye el codigo con los resultados.
