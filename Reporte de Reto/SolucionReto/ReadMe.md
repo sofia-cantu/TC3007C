@@ -11,7 +11,7 @@
 - En esta entrega se integran todos avances realizados en equipo durante el reto para solucionar la situación problema. Se espera que en esta entrega incluyan las correcciones sugeridas en la retroalimentación de las etapas previas.
 
 ### **Reporte Final: Solución del Reto**
-...
+En este apartado se encuentra la entrega final de nuestro reporte, que explica a detalle nuestra solución a el reto presentado. 
 
 
 
