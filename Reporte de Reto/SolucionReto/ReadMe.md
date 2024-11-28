@@ -14,4 +14,6 @@
 En este apartado se encuentra la entrega final de nuestro reporte, que explica a detalle nuestra solución a el reto presentado. 
 
 
+### **Reporte Final: Solución del Reto**
+En este apartado se encuentra la entrega final de nuestro reporte, que explica a detalle nuestra solución a el reto presentado. Adicionalmente, se incluye el codigo con los resultados.
 
