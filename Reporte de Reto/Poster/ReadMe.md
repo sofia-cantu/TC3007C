@@ -12,6 +12,12 @@
 
 ### **Poster: Entrega Final**
 
-...
-
-
+Para este entregable, buscamos resumir las partes más relevantes del proyecto, eficientando la presentación de nuestra solución. El poster esta conformado por las siguientes secciónes:
+1. Objetivo
+2. Diagrama de flujo
+3. Análisis inicial e Indicadores
+5. Features
+6. Modelo
+7. Métricas del modelo
+8. Resultados
+9. Prueba
